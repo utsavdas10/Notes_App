@@ -30,7 +30,7 @@ function CreateArea(props) {
         content: ""
       };
     });
-    setChecked(false)
+    setChecked(false);
     event.preventDefault();
   }
 
