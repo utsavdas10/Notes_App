@@ -37,7 +37,8 @@ function CreateArea(props) {
   function handleZoom(){
     setChecked(true)
   }
-
+     
+  
   return (
     <div>
       <form className="create-note">
